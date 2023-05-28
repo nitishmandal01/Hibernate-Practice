@@ -1,3 +1,3 @@
 # Hibernate-Practice
 
-My Hibernate Practice Problems.
+Here you can find all my Hibernate Practice Problems.
